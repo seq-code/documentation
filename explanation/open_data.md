@@ -8,7 +8,9 @@ public release. However, entries have one of three levels of visibility:
    entries in **draft** status (under preparation) are only visible to the
    submitters themselves and the Registry curator team. However, the name might
    be listed in some pages: *e.g.*, in the genome page or among children of the
-   parent taxon (if the name of the parent taxon is public).
+   parent taxon (if the name of the parent taxon is public). Private pages
+   indicate they are private with a crossed-eye icon
+   <i class="fas fa-eye-slash"> </i> under the page title (top-left).
 2. **Unlisted**: Register lists that are **submitted**, **endorsed**, or
    **notified** are not listed in the Registry and therefore cannot be found
    publicly linked in the portal. However, using the direct link to the register
