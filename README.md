@@ -2,6 +2,13 @@
 
 Documentation of the SeqCode Registry and associated processes.
 
+## Guides
+- [etymology](guides/etymology.md): How do I Fill the Etymology Table?
+- [curation SOP](guides/curation.md): How are names internally curated?
+
+## Explanation
+- [register](explanation/register.md): What are Register Lists?
+- [open data](explanation/open_data.md): What data is publicly released and how?
 
 # LICENSE
 
