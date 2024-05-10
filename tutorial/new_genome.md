@@ -49,13 +49,16 @@ For additional resources on name creation, see
 
 The easiest way to register your names now is to
 [follow a guided registration](https://registry.seqco.de/tutorials).
-Select "New species and parent taxa" and follow the instructions there. Briefly:
+Select "New species and parent taxa" and initialize this register list:
 
 Fill the species name and the most specific classification (both defined above).
 For example, if you determined that the genome belongs to a novel class of a
 known phylum, fill-up the species name and the phylum to which you believe the
-species belong. Once you have initialized your registration with that
-information:
+species belong.
+
+## 5. Follow the guided registration
+
+You can simply follow the guided registration. Briefly:
 
 1. Review the proposed new names for all intermediate ranks (if any) and
    continue.
@@ -76,9 +79,9 @@ information:
    publication, or to select the appropriate register list if it belongs to
    a collection of lineages for which you already have an existing register.
 
-## 5. Submit the list
+## 6. Submit the list
 
-You can repeat steps 1-4 for all the lineages that you report in the effective
+You can repeat steps 1-5 for all the lineages that you report in the effective
 publication. Once you're done with these, you can submit it. If you are
 currently working on your manuscript or undegoing peer-review, click on
 "Submit register list for evaluation" in the Register List page (this is called
