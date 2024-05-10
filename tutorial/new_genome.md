@@ -12,7 +12,7 @@ analyses.
 The first step when considering to register a genome as the type material for a
 novel taxon under the SeqCode is to evaluate the quality. You can see the
 minimum quality requirements here:
-[SeqCode Appendix I](https://registry.seqco.de/page/seqcode#data-quality-necessary-for-completion-of-seqcode-registryb)
+[SeqCode Appendix I](https://seqco.de/seqcode#data-quality-necessary-for-completion-of-seqcode-registryb).
 
 You can use any of the many methods to evaluate quality, so long as you document
 which method was used. Internally, the Registry revises estimates using MiGA,
