@@ -19,7 +19,7 @@ which method was used. Internally, the Registry revises estimates using MiGA,
 but that's only to ensure quality-control.
 
 For additional details on how these genomes are evaluated, see
-[How are names internally curated?](../guides/curation)
+[How are names internally curated?](../guides/curation.md).
 
 ## 2. Determine the degree of taxonomic novelty
 
@@ -43,7 +43,7 @@ will be named on the basis of the genus, and the Registry will help you with
 their spelling.
 
 For additional resources on name creation, see
-[How do I Fill the Etymology Table?](../guides/etymology.md)
+[How do I Fill the Etymology Table?](../guides/etymology.md).
 
 ## 4. Create a guided registration
 
