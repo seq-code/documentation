@@ -2,6 +2,10 @@
 
 Documentation of the SeqCode Registry and associated processes.
 
+## Tutorials
+- [new genome](tutorials/new_genome.md): I have a genome belonging to a novel
+  taxon, how can I register it?
+
 ## Guides
 - [etymology](guides/etymology.md): How do I Fill the Etymology Table?
 - [curation SOP](guides/curation.md): How are names internally curated?
