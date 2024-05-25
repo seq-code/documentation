@@ -38,6 +38,14 @@ would like to use it. In this list you will also see each entry accompanied by
 the "use" button. When you identify the appropriate grammar, click on "use" to
 automatically copy the grammar string into the corresponding field.
 
+## Term not found
+
+Often particles used to form new names are derived from non-standard Latin
+sources, such as Neo Latin terms. In many of those cases, the lookup will not be
+able to find the term, and a red text will indicate this. This doesn't mean that
+the term cannot be used to form the name, it simply means that you will need to
+identify the appropriate grammar and definition yourself.
+
 ## Sources
 
 The final section of the lookup message is the sources. This system uses the
@@ -49,12 +57,4 @@ when using the platform. Current sources include:
   [Perseus, Latin-English Dictionary](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059)
 * **Lewis CT (1879).** *An Elementary Latin Dictionary.*
   [Perseus, Latin-English Dictionary](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060)
-
-## Term not found
-
-Often particles used to form new names are derived from non-standard Latin
-sources, such as Neo Latin terms. In many of those cases, the lookup will not be
-able to find the term, and a red text will indicate this. This doesn't mean that
-the term cannot be used to form the name, it simply means that you will need to
-identify the appropriate grammar and definition yourself.
 
