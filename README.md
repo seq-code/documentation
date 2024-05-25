@@ -7,7 +7,8 @@ Documentation of the SeqCode Registry and associated processes.
   taxon, how can I register it?
 
 ## Guides
-- [etymology](guide/etymology.md): How do I Fill the Etymology Table?
+- [etymology](guide/etymology.md): How do I fill the etymology table?
+- [dictionary](guide/dictionary.md): How do I use dictionary lookups?
 - [curation SOP](guide/curation.md): How are names internally curated?
 
 ## Explanation
