@@ -11,25 +11,9 @@ the etymology, the system will lookup the word you have written even if the
 etymology change has not been saved. a small message should open querying the
 dictionary and displaying the lookup results.
 
-## Definition
-
-The first part of the lookup message is dictionary definitions. The title of
-this section indicates the source (dictionary) used, then you should see a list
-of short definitions with a "use" button next to each entry, and below the
-complete definition as found in the source dictionary. The list at the top is
-the result of automated parsing, and sometimes might have some mistakes, so
-please review carefully which (if any) you would like to adopt as the definition
-of the particle. You can simply click on "use" to copy the definition into the
-corresponding field of the etymology table.
-
-If you want to switch to a different source dictionary, simply click the
-<i class="fas fa-exchange"> </i> "Look-up ... instead" button at the end of the
-section. The entire section will be automatically updated when the source is
-changed (including the section title).
-
 ## Grammatical analyses
 
-The next section of the lookup message is the grammatical analysis of the
+The first section of the lookup message is the grammatical analysis of the
 particle automatically parsed by the Registry on the basis of the results
 provided by [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/).
 All the grammar strings provided could be correct on the basis of the particle
@@ -38,13 +22,37 @@ would like to use it. In this list you will also see each entry accompanied by
 the "use" button. When you identify the appropriate grammar, click on "use" to
 automatically copy the grammar string into the corresponding field.
 
+Next to each particle in the list, you will also see in parenthesis a
+<i class="fas fa-search"> </i> link indicatig the corresponding entry in the
+dictionary. Clicking this word will update the next section with the definition
+of the appropriate term.
+
+
+## Definition
+
+The next section in the lookup message is dictionary definitions. The title of
+this section indicates the source (dictionary) used, then you should see a list
+of short definitions with a "use" button next to each entry, and below the
+complete definition as found in the source dictionary. The list at the top is
+the result of automated parsing, and sometimes might have some mistakes, so
+please review carefully which (if any) you would like to adopt as the definition
+of the particle. You can simply click on "use" to copy the definition into the
+corresponding field of the etymology table. Underneath the list you will see a
+box with the original definition found in the source dictionary.
+
+If you want to switch to a different source dictionary, simply select the new
+source in the title <i class="fas fa-exchange"> </i> dropdown menu.
+The entire section will be automatically updated when the source is changed.
+
+
 ## Term not found
 
 Often particles used to form new names are derived from non-standard Latin
 sources, such as Neo Latin terms. In many of those cases, the lookup will not be
-able to find the term, and a red text will indicate this. This doesn't mean that
+able to find the term, and a red text will indicate this. That doesn't mean that
 the term cannot be used to form the name, it simply means that you will need to
 identify the appropriate grammar and definition yourself.
+
 
 ## Sources
 
