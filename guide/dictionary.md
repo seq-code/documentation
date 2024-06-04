@@ -23,9 +23,11 @@ the "use" button. When you identify the appropriate grammar, click on "use" to
 automatically copy the grammar string into the corresponding field.
 
 Next to each particle in the list, you will also see in parenthesis a
-<i class="fas fa-search"> </i> link indicatig the corresponding entry in the
+<i class="far fa-bookmark"> </i> link indicating the corresponding entry in the
 dictionary. Clicking this word will update the next section with the definition
-of the appropriate term.
+of the appropriate term. The grammatical analyses corresponding to the active
+definition below are indicated with a bold <i class="fas fa-bookmark"> </i>
+link.
 
 
 ## Definition
