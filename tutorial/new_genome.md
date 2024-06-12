@@ -50,11 +50,10 @@ For additional resources on name creation, see
 The easiest way to register your names now is to
 [follow a guided registration](https://registry.seqco.de/tutorials).
 Select "New species and parent taxa" and initialize this register list:
-
 Fill the species name and the most specific classification (both defined above).
 For example, if you determined that the genome belongs to a novel class of a
 known phylum, fill-up the species name and the phylum to which you believe the
-species belong.
+species belongs.
 
 ## 5. Follow the guided registration
 
