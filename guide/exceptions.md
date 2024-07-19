@@ -2,7 +2,7 @@
 Two overall categories exists for taxa for which genome quality exceptions can
 be requested under the SeqCode.
 
-## 1. If the quality estimates are believed to be wrong
+### 1. If the quality estimates are believed to be wrong
 
 The first case entails genomes for which it is believed that the quality
 estimates are incorrectly estimated in the contributor checks and/or the
@@ -21,7 +21,7 @@ validated. These exceptions are granted at the discretion of the SeqCode
 genomics curators and/or may be discussed among the SeqCode Registry and
 Nomenclature Working Group depending on the case.
 
-## 2. If the quality estimates are believed to be correct
+### 2. If the quality estimates are believed to be correct
 
 The second case entails genomes for which the quality estimates are believed to
 be correct, and the genome quality falls under the SeqCode genome quality
