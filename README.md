@@ -10,6 +10,8 @@ Documentation of the SeqCode Registry and associated processes.
 - [etymology](guide/etymology.md): How do I fill the etymology table?
 - [dictionary](guide/dictionary.md): How do I use dictionary lookups?
 - [curation SOP](guide/curation.md): How are names internally curated?
+- [exceptions](guide/exceptions.md): When and how to formally request a genome
+  quality exception?
 
 ## Explanation
 - [register](explanation/register.md): What are Register Lists?
