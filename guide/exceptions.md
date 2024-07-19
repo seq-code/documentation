@@ -41,3 +41,6 @@ exceptions are granted by majority vote of the Reconciliation Commission.
 For additional information on the structure and members of the different parts
 of the SeqCode Committee, see https://seqco.de/committee
 
+---
+
+Contributors: Marike Palmer & Luis M Rodriguez-R
