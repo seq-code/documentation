@@ -42,6 +42,6 @@ For additional information on the structure and members of the different parts
 of the SeqCode Committee, see https://seqco.de/committee
 
 
-<div class="text-muted border-top mt-5">
+<div class="text-muted border-top mt-5 pt-2">
   <b>Contributors:</b> Marike Palmer & Luis M Rodriguez-R
 </div>
