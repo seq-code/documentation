@@ -31,7 +31,7 @@ need to be effectively communicated. This formal request for decision and
 community discussion should follow the format established for the discussion on
 _Omnitrophus fodinae_ (https://github.com/seq-code/seqcode/discussions/2) and
 should be submitted to the secretary of the SeqCode Reconciliation Commission
-(see https://seqco.de/commmittee to identify the current secretary).
+(see https://seqco.de/committee to identify the current secretary).
 Following discussion among the Reconciliation Commission, and a three month
 public discussion period, the Reconciliation Commission will vote on whether the
 exception can be granted, and the Executive Board will be notified of the
