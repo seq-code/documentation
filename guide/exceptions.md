@@ -43,4 +43,6 @@ of the SeqCode Committee, see https://seqco.de/committee
 
 ---
 
-Contributors: Marike Palmer & Luis M Rodriguez-R
+<div class="muted-text">
+  **Contributors:** Marike Palmer & Luis M Rodriguez-R
+</div>
