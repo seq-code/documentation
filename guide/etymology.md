@@ -59,6 +59,7 @@ to read these external resources:
 * **Etymology.** [LPSN](https://lpsn.dsmz.de/text/etymology)
 * **Lewis CT, Short C (1879).** *A Latin Dictionary.*
   [Perseus, Latin-English Dictionary](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059)
-* The [etymology sandbox](https://registry.seqco.de/etymology_sandbox) allows
-  testing some etymology table utilities without creating or modifying names
+* The [etymology sandbox](https://registry.seqco.de/names/etymology_sandbox)
+  allows testing some etymology table utilities without creating or modifying
+  names
 
