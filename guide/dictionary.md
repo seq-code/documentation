@@ -1,8 +1,10 @@
 ## Activating dictionary lookups in the etymology table
 
-Once you have created a name, when you edit the etymology you will see a table
-containing five columns: **Component**, **Language**, **Grammar**, **Particle**,
-and **Description or translation**. In addition, once you fill up any
+Once you have created a name, when you edit the etymology (or in the
+[etymology sandbox](https://registry.seqco.de/names/etymology_sandbox))
+you will see a table containing five columns:
+**Component**, **Language**, **Grammar**, **Particle**, and
+**Description or translation**. In addition, once you fill up any
 **Particle** field, a new <i class="fas fa-book"> </i> button will appear at the
 end of the row for the corresponding component. Click on that button to begin
 the dictionary lookup of that particle. If you want to lookup a different word,
