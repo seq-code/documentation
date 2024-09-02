@@ -16,6 +16,7 @@ Documentation of the SeqCode Registry and associated processes.
 ## Explanation
 - [register](explanation/register.md): What are Register Lists?
 - [open data](explanation/open_data.md): What data is publicly released and how?
+- [paths](explanation/paths.md): What are the different paths to validation?
 
 # LICENSE
 
