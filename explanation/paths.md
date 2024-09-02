@@ -12,6 +12,6 @@ already been published. This allows to retrospectively capture names from the
 published literature.
 
 ### Path 3
-Refers to the concomitant publication of a name during peer-review in concert
+Refers to the concomitant registration of a name during peer-review in concert
 with participating journals.
 
