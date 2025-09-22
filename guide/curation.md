@@ -85,7 +85,7 @@ To evaluate the nomenclature of a genus and species, follow these steps:
    the binomial indicated in the name section, while the information on the
    genus name is required on a separate genus page.
 2. Confirm that the species is linked to a genus as its parent. If the genus is
-   a validly published genus under the SeqCode, ICNP, or ICN, only page/s for
+   a validly published genus under the SeqCode, ICNP, or ICNafp, only page/s for
    the species name/s, containing the binomial, are necessary, move to point 7.
    If a new genus is proposed, ensure that both the species name and the genus
    name pages are completely filled in and linked to the same register list if
@@ -174,7 +174,7 @@ these steps:
 4. Confirm that the designated type genus is the first legitimate genus in the
    taxon. Under the SeqCode, higher taxonomic ranks should be formed from the
    first legitimate genus name belonging to the taxon. Confirm that no earlier
-   correct, preferred, and legitimate genera under the SeqCode, ICNP, or ICN
+   correct, preferred, and legitimate genera under the SeqCode, ICNP, or ICNafp
    exist in this taxon. If there are no earlier legitimate genera to serve as
    type, select the green check mark for “Later taxon as type” entry. However,
    note that there could be contention on what the earliest legitimate genus is,
